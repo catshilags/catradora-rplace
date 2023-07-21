@@ -1,0 +1,29 @@
+{
+
+  "contact": "shera new overlay",
+
+  "templates": [
+
+    {
+
+      "name": "shera",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/645696294047711246/1131841096083832832/rplacecatradora2023bw.png"
+
+      ],
+
+      "x": 1329,
+
+      "y": 490
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
